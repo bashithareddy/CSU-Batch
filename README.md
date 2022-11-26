@@ -1,7 +1,7 @@
 
 # CSU-Batch Setup
 
-
+To run the project on Linux Platform, follow the steps bellow
 
 
 ## DataBase Setup
