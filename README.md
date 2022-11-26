@@ -5,6 +5,9 @@ To run the project on Linux Platform, follow the steps bellow
 
 
 ## DataBase Setup
+
+Initially we have to setup the database -
+
 Download xampp control panel from this link
 https://www.apachefriends.org/download.html
 
