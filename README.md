@@ -40,7 +40,7 @@ To Install pip
 
 ## Tables Creation
 
-Download the csu-batch.sql file in database folder opne phpmyadmin
+Download the csu-batch.sql file in database folder and then open phpmyadmin
 ```bash
   https://localhost/phpmyadmin
 ```
@@ -48,7 +48,7 @@ create new database
 ```bash
   create database csu-batch
 ```
-Import the csu-batch.sql file. Tables will be generate
+Import the csu-batch.sql file. Tables will be generated
 
 ## Run Program
 
