@@ -1,0 +1,182 @@
+([('main.exe',
+   'D:\\new downloads\\Downloads\\CSU-Batch\\CSUBatch\\build\\main\\main.exe',
+   'EXECUTABLE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python310.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes310.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pywintypes310.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom310.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pythoncom310.dll',
+   'BINARY'),
+  ('_decimal',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_uuid',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32security',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32security.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_cffi_backend.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('bcrypt._bcrypt',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\bcrypt\\_bcrypt.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._rust',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('win32evtlog',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32evtlog.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('simplejson._speedups',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\simplejson\\_speedups.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_mysql_connector',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_mysql_connector.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\python3.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libmysql.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\libmysql.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libssl-1_1-x64.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\libssl-1_1-x64.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'E:\\oracle_19c\\WINDOWS.X64_193000_db_home\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('libcrypto-1_1-x64.dll',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\libcrypto-1_1-x64.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\new '
+   'downloads\\Downloads\\CSU-Batch\\CSUBatch\\build\\main\\base_library.zip',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\LICENSE.APACHE',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\LICENSE',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\RECORD',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\RECORD',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\super '
+   'brands\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\INSTALLER',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\LICENSE.PSF',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\METADATA',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\WHEEL',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\LICENSE.BSD',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-37.0.4.dist-info\\top_level.txt',
+   'c:\\users\\super '
+   'brands\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.4.dist-info\\top_level.txt',
+   'DATA')],)
