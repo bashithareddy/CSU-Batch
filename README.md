@@ -43,7 +43,7 @@ To Install pip
   $ sudo apt install python3-pip
 ```
 
-#### Tables Creation
+#### DataBase Tables Creation
 
 Download the csu-batch.sql file in database folder and then open phpmyadmin
 ```bash
@@ -65,6 +65,30 @@ Run the following commands
 
 ```bash
   $ python3 main.py
+```
+```bash
+  $ help // to get the list of commands
+```
+```bash
+  $ run <jobname> <cpu_time> <priority_level>
+```
+```bash
+  $ sjf // command change to sjf
+```
+```bash
+  $ fcfs // command change to fcfs
+```
+```bash
+  $ priority //command change to priority
+```
+```bash
+  $ test <test_name> <noofjobs> <prioritylevel> <mincpu> <maxcpu>
+```
+```bash
+  $ list // to view the jobs
+```
+```bash
+  $ quit // to exit the job
 ```
 
 ## Authors
