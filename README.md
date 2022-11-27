@@ -71,10 +71,10 @@ Run the following commands
 
 Contributors names and contact info
 
-###Sravani Beemidi
-###Bashitha
-###Rakesh
-###Vishal
+ *  Sravani Beemidi( beemidi_sravani@columbusstate.edu)
+ *  Bashitha Reddy ( pullalarevu_bashithareddy@columbusstate.edu)
+ *  Rakesh Reddy (janapureddy_rakesh@columbusstate.edu)
+ *  Vishal Janapureddy (janapu_vishalreddy@columbusstate.edu)
 
 ## Version History
 
