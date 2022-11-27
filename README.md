@@ -91,8 +91,8 @@ This project is licensed under the Columbus State University
 ## Acknowledgments
 
 References
-https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/
-https://www.tutorialspoint.com/synchronizing-threads-in-python
-https://en.cppreference.com/w/cpp/thread/mutex
-https://superfastpython.com/thread-mutex-lock/
-https://pypi.org/project/selenium/
+* https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/
+* https://www.tutorialspoint.com/synchronizing-threads-in-python
+* https://en.cppreference.com/w/cpp/thread/mutex
+* https://superfastpython.com/thread-mutex-lock/
+* https://pypi.org/project/selenium/
